@@ -42,6 +42,7 @@ Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 ##### :package: Open Source Projects
 
 [![](https://img.shields.io/badge/🔔%20telegramNotify-000)](https://github.com/sujaykumarh/telegramNotify)
+[![](https://img.shields.io/badge/📖%20Docsify--docker-000)](https://github.com/Sujaykumarh/docsify-docker)
 <!-- [![](https://img.shields.io/badge/%20Project-000)](https://github.com/sujaykumarh/) -->
 
 
