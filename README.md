@@ -6,7 +6,6 @@ Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 
 [![](https://img.shields.io/badge/⭐%20Portfolio-536dfe?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/)
 [![](https://img.shields.io/badge/📝%20Blog-333?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/blog/)
-
 ---
 
 ### 📬 Contact
@@ -43,6 +42,7 @@ Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 
 [![](https://img.shields.io/badge/🔔%20telegramNotify-000)](https://github.com/sujaykumarh/telegramNotify)
 [![](https://img.shields.io/badge/📖%20Docsify--docker-000)](https://github.com/Sujaykumarh/docsify-docker)
+[![](https://img.shields.io/badge/🧱%20NginxWall-000)](https://github.com/nginxwall)
 <!-- [![](https://img.shields.io/badge/%20Project-000)](https://github.com/sujaykumarh/) -->
 
 
