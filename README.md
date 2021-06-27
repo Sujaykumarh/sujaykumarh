@@ -6,6 +6,7 @@ Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 
 [![](https://img.shields.io/badge/⭐%20Portfolio-536dfe?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/)
 [![](https://img.shields.io/badge/📝%20Blog-333?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/blog/)
+[![](https://img.shields.io/badge/📙%20My--Notebook-333?&style=for-the-badge&logo=&logoColor=white)](https://notebook.sujaykumarh.com/)
 ---
 
 ### 📬 Contact
