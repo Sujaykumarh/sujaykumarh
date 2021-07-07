@@ -67,9 +67,9 @@ Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 
 ---
 
-### ☕ Buy me a cofee
+### ☕ Sponser Coffee
 
-<!-- [![](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sujaykumarh) -->
+[![](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sujaykumarh)
 [![](https://img.shields.io/badge/kofi-%23579fbf.svg?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sujaykumarh)
 [![](https://img.shields.io/badge/buy%20me%20a%20coffee-%23f7ba56.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sujaykumarh)
 <!-- [![]()]() -->
