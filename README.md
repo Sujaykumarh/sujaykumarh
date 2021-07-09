@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sujaykumarh/sujaykumarh/main/assets/avatar.svg" align="right" width="200">
 
-Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
+:wave: Hello, I'm [Sujaykumar Hublikar](https://sujaykumarh.com/) Product Designer.
 
 [![](https://img.shields.io/badge/⭐%20Portfolio-536dfe?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/)
 [![](https://img.shields.io/badge/📝%20Blog-333?&style=for-the-badge&logo=&logoColor=white)](https://sujaykumarh.com/blog/)
